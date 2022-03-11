@@ -2,8 +2,6 @@
 
 I like to build things with 1s and 0s. My Github page is where I keep most of these things.
 
-You can find more details at <a href="www.hirerick.com">my website</a>. 
-
 You can also find me solving puzzles at [CodeWars](https://www.codewars.com/users/RickWeber). ![My Codewards profile](https://www.codewars.com/users/RickWeber/badges/small)
 
 <!--

@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Rick!
+
+I like to build things with 1s and 0s. My Github page is where I keep most of these things.
+
+You can find more details at [my website](www.hirerick.com) or [my linkedin](www.hirerick.com/linkedin). 
+
+You can also find me solving puzzles at CodeWars. ![My Codewards profile](https://www.codewars.com/users/RickWeber/badges/small)
 
 <!--
 **RickWeber/RickWeber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

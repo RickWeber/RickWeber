@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rick!
 
-I like to build things with 1s and 0s. My Github page is where I keep most of these things. Lately I've been focusing on building my Python skills by learning Django, but in the past I've done lots with R and NetLogo. 
+I like to build things with 1s and 0s. My Github page is where I keep most of these things. You'll notice a chaos of projects in a variety of languages, but the best stuff is probably coded in R or NetLogo. 
 
 You can also find me solving puzzles at [CodeWars](https://www.codewars.com/users/RickWeber). ![My Codewards profile](https://www.codewars.com/users/RickWeber/badges/small)
 
